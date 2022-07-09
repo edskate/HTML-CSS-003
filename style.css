@@ -1,0 +1,13 @@
+body {
+  color: crimson;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  text-shadow: 12px 13px 14px rgb(238, 136, 136);
+  background-color: #000;
+  margin: 200px;
+}
+h2{
+  color: rgb(78, 78, 233);
+  font-size: 25px;
+  text-shadow: 12px 13px 14px #00ffff;
+}
